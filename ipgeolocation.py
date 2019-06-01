@@ -1,7 +1,5 @@
-from colorama import Fore, Back, Style
 from PyQt5 import QtWidgets, QtGui, QtCore, uic
 import sys, json, urllib, urllib.request
-import scapy.all as scapy
 
 ################################################
 #
