@@ -8,4 +8,6 @@ git clone https://github.com/gotr00t0day/ipgeolocation.git
 
 cd ipgeolocation
 
+pip3 install -r requirements.txt
+
 sudo python3 ipgeolocation.py
