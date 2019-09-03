@@ -33,7 +33,7 @@ def btnclear():
 QtWidgets.QAction.triggered.connect(version())
 
 def version():
-    QtWidgets.QMessageBox.information(gui, 'Version', 'Netdiscovery by c0deninja', QtWidgets.QMessageBox.Ok)
+    QtWidgets.QMessageBox.information(gui, 'Version', 'ipgeolocation by c0deninja', QtWidgets.QMessageBox.Ok)
 
 
 app = QtWidgets.QApplication(sys.argv)
